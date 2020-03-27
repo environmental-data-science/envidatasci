@@ -18,4 +18,4 @@
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
-Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests the concern the [website template](https://github.com/fastai/fastpages). For issues with this website, make a github issue.
+Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests that concern the [website template](https://github.com/fastai/fastpages). For issues with this website, make a github issue.
